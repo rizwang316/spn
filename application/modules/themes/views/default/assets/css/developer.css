@@ -1,0 +1,42 @@
+.clear-fix{ clear:both;}
+.small-size{ font-size:80%; color:#666;}
+.category-scroll{ max-height: 150px;  overflow-y:scroll; }
+.area-input{ width: 83%;}
+.tag-clouds{ padding: 4px 0px;}
+.btn-color{ background:#80b13f; color:#fff; padding:6px 20px; }
+.btn-color:hover{ color:#fff; opacity:.8;}
+.fa-rotate-180 {
+    -ms-transform:rotate(180deg);     /* Internet Explorer 9 */
+    -webkit-transform:rotate(180deg); /* Chrome, Safari, Opera */
+    transform:rotate(180deg);         /* Standard syntax */
+}
+
+.checkbox label:before{
+    content: "\f087";
+}
+.checkbox label:after{
+    -ms-transform:rotate(180deg);     /* Internet Explorer 9 */
+    -webkit-transform:rotate(180deg); /* Chrome, Safari, Opera */
+    transform:rotate(180deg);         /* Standard syntax */
+    content: "\f087";
+    margin-left: 0px;
+}
+.emotions span:after{ content: "";}
+.pagination-wrapper{ text-align:center;}
+.ajax-loading{ position:absolute; z-index:9999}
+.btn-green{ border-radius:4px; background:#80b13f; border:none; color:#fff; padding:8px 10px; font-size:14px;}
+.btn-green:hover{ color:#fff; opacity:.7;}
+.bio{ width:90%;}
+.control-label{ font-weight:bold; color:#000;}
+.heading{color:#80b13f;}
+.blog-one-content h3{ margin-top:0px;}
+.blog-one-content h3 a{ text-transform:capitalize; color:#80b13f;}
+.search-top{ margin-top:1%;}
+.btn.btn-green{ padding:8px 20px;}
+
+.pos-relative{ position:relative}
+.add-more-btn{ position:absolute; top:-5px; right:0}
+.add-more-btn a{ color:#fff;}
+.menucls ul li a.active{ background:#80b13f;}
+.business-logo img{ max-width:100%; max-height:100%;}
+.business-logo-detail img{max-width:100%; max-height:100%;}
